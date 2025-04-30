@@ -2,7 +2,7 @@
 
 # Base ----------------------------------------
 matplotlib>=3.2.2
-numpy==1.23.5  # Compatible with OpenCV 4.5.x
+numpy==2.0.2  # Compatible with OpenCV 4.5.x
 opencv-contrib-python==4.5.5.64  # Use contrib version for trackers
 Pillow>=7.1.2
 PyYAML>=5.3.1
